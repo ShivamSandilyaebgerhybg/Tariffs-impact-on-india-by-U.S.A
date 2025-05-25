@@ -20,6 +20,8 @@ This project analyzes the impact of U.S. tariff policies on India from 2018 to 2
 - *Sectoral Impacts*: Steel exports hit hard; aluminum rebounded; agriculture affected by GSP withdrawal.
 - *Policy Timeline*: Section 232 (2018), GSP removal (2019), tariff easing (2023).
 - *Macroeconomic Resilience*: Limited impact on India's GDP/inflation due to strong domestic economy.
+![Screenshot 2025-05-25 230934](https://github.com/user-attachments/assets/15a77a2a-5607-413a-87f0-6b47f5ac9db6)
+
 
 ## Visualizations
 
@@ -61,7 +63,7 @@ UN Comtrade
 
 USTR, Moody’s, official PIB reports
 
-![Screenshot 2025-05-25 230934](https://github.com/user-attachments/assets/f7d9367b-eeff-4a49-9938-629dc64deb5f)
+
 
 
 
